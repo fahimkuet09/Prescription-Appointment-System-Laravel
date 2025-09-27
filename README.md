@@ -1,22 +1,55 @@
-# prescription-apointment-system-laravel
+# Prescription & Appointment System (Laravel)
 
-# Web Application Details Features
+A complete Prescription and Appointment Management System built with Laravel.
+This web application helps doctors manage prescriptions and appointments, while allowing patients to easily register and book appointments
 
- # prescription
-- Complete web application with a dynamic service section.
-- Admin can add, update and delete Medicne, Investigation, Advice, Duration, Instruction.
- -Admin Can add new Patient and edit old patient information.
- -Admin can serch old patient information.
-- Admin can create prescription.
-- Amdin can create new visit no. for old prescription.
-- Admin can get the daily patient data.
+# Features
 
-# Appointment
+# Prescription Module
 
-- Doctor can create appointment Data and time.
-- Doctor can check the daily and all time appointment Information.
-- Patient can register as a patient in this system.
-- Patient can book appoitnment from available doctor and doctor's available time.
+-Full-featured web application with a dynamic service section.
+
+-Admin can add, update, and delete:
+
+Medicines
+
+Investigations
+
+Advice
+
+Duration
+
+Instructions
+
+-Admin can manage patients:
+
+Add new patients
+
+Edit existing patient information
+
+Search patient history
+
+Admin can create prescriptions for patients.
+
+Admin can create new visit numbers for old prescriptions.
+
+Generate daily patient reports for analysis.
+
+# Appointment Module
+
+-Doctors can:
+
+Create appointment dates and times
+
+View daily appointments
+
+View all appointments history
+
+-Patients can:
+
+Register as a new patient in the system
+
+Book appointments with available doctors and time slots
 
 
 ###
@@ -28,7 +61,7 @@
 - MySQL
 - Bootstrap
 
-**Test Repo :**
+**Screenshots:**
 # Home Page
 <a  href="">
   <img  width="100%"  height="100%"  src="https://i.ibb.co/gw7zhg3/home-prescription.png"/>

@@ -29,11 +29,11 @@ Edit existing patient information
 
 Search patient history
 
-Admin can create prescriptions for patients.
+-Admin can create prescriptions for patients.
 
-Admin can create new visit numbers for old prescriptions.
+-Admin can create new visit numbers for old prescriptions.
 
-Generate daily patient reports for analysis.
+-Generate daily patient reports for analysis.
 
 # Appointment Module
 

@@ -140,6 +140,15 @@ This web application helps doctors manage prescriptions and appointments, while 
 <a  href="">
   <img  width="100%"  height="100%"  src="https://i.ibb.co/zsp8Jf9/appoint-info.png"/>
 </a>                                                                                 
-     
+
+# Usage
+
+This system is designed for clinics, hospitals, and private practices to manage:
+
+* Digital patient prescriptions
+
+* Doctor appointment scheduling
+
+* Streamlined medical record keeping     
                                                                                    
                                                                                    

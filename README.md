@@ -11,23 +11,23 @@ This web application helps doctors manage prescriptions and appointments, while 
 
 -Admin can add, update, and delete:
 
-Medicines
+.Medicines
 
-Investigations
+.Investigations
 
-Advice
+.Advice
 
-Duration
+.Duration
 
-Instructions
+.Instructions
 
 -Admin can manage patients:
 
-Add new patients
+.Add new patients
 
-Edit existing patient information
+.Edit existing patient information
 
-Search patient history
+.Search patient history
 
 -Admin can create prescriptions for patients.
 
@@ -39,17 +39,17 @@ Search patient history
 
 -Doctors can:
 
-Create appointment dates and times
+.Create appointment dates and times
 
-View daily appointments
+.View daily appointments
 
-View all appointments history
+.View all appointments history
 
 -Patients can:
 
-Register as a new patient in the system
+.Register as a new patient in the system
 
-Book appointments with available doctors and time slots
+.Book appointments with available doctors and time slots
 
 
 ###
